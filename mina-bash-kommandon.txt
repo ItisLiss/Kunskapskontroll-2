@@ -3,3 +3,4 @@ kunskapskontroll 2 - Lisette Rönn
 Beskrivning av steg 1 och 2:
 Övningen inleds att genom att använda Terminalen i VS lokalisera dig bland mapparna på datorn med kortkommandot pwd. 
 Sedan lokalisera vart du vill lägga till en mapp genom korkommandot ls och följa upp med cd "mappnamn".
+är man lokaliserat rätt i den nya mappen, så skapas din README.md fil genom touch "README.md".

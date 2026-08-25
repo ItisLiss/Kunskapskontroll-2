@@ -15,8 +15,8 @@ steg:
 - git push -u origin main
 
 För att nu spara och uppdatera README filen på Github användes förljande kommandon:
-- git status
-- git add .
-- git commit -m 'text'
-- git push
+- __git status:__ Vilket visar om "branchen" är uppdaterad, sedan får man se exakt vad som inte är "Commitat" ändrats men inte sparat och ger tips på nästa kommando.
+- __git add .__ Genom detta kommando väljer du att placera alla ändringar i väntande läge och punkten syftar till den aktuella mappen/dokumentet du arbetar i. 
+- __git commit -m 'text'__ commit skapar som en historisk ändring i historiken av arbetet, själva -m 'text' delen är för att lämna en egen text, -m flaggar för meddelande och 'text' är text i form av förklaring eller ett meddelande i historiken.
+- __git push__ Laddar upp själva det du sparade från commit kommandot (dina sparade ändringar) från din dator till tex Github.
 
