@@ -1,0 +1,5 @@
+## mina-bash-kommandon 
+# kunskapskontroll 2 - Lisette Rönn
+## Beskrivning av steg 1 och 2:
+- Övningen inleds att genom att använda Terminalen i VS lokalisera dig bland mapparna på datorn med kortkommandot __pwd.__ 
+Sedan lokalisera vart du vill lägga till en mapp genom korkommandot __ls__ och följa upp med cd "mappnamn".
